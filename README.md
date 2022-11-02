@@ -26,6 +26,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log 
 * 2022-10-25 Metaverse as an existential risk? Found articles and started reading/taking notes.
+* 2022-10-24 Created V&R map for myself.
 * 2022-10-24 Added initial notes to private repository.
 
 ## TO DO 

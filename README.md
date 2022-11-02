@@ -25,12 +25,15 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log 
+* 
+* 2022-11-02 Added more notes on metaverse to private repository + started thinking of my own digital footprint and its impact on the future development of this metaverse.
 * 2022-10-25 Metaverse as an existential risk? Found articles and started reading/taking notes.
 * 2022-10-24 Created V&R map for myself.
 * 2022-10-24 Added initial notes to private repository.
 
 ## TO DO 
-* More research on existential risks
-* Decide on a risk for research question
+* More research on existential risks - Metaverse?
+* Decide on a risk for research question.
 * link the risk to my own digital identity + impact 
 * come up with research question + continue to upload notes and ideas to repository.
+* Watch Social Dilemma on netflix.

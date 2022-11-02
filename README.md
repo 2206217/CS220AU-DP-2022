@@ -25,8 +25,8 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log 
-* 2022-11-02 V&R map in digital form (on Word).
-* 2022-11-02 Added more notes on metaverse to private repository + started thinking of my own digital footprint and its impact on the future development of the metaverse.
+* 2022-11-02 V&R map in digital form (on Word) + quick analysis on the map.
+* 2022-11-02 Added more notes on metaverse to private repository + started thinking of my own digital footprint.
 * 2022-10-25 Metaverse as an existential risk? Found articles and started reading/taking notes.
 * 2022-10-24 Created V&R map for myself.
 * 2022-10-24 Added initial notes to private repository.

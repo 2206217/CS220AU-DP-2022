@@ -36,7 +36,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TO DO 
 * More research on existential risks - Metaverse?
-* Decide on a risk for research question.
+* Move reflective notes on V&R map from notebook to repository.
 * link the risk to my own digital identity + impact 
 * come up with research question + continue to upload notes and ideas to repository.
 * Watch Social Dilemma on netflix.

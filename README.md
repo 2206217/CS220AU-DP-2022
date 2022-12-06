@@ -1,5 +1,6 @@
 
 ## Log 
+* 2022-12-02 Started looking into screentime and at making some pie charts. 
 * 2022-11-28 Read more, came up with research question and very brief outline of the website.
 * 2022-11-24 More research/reading into digitalisation, finally came up with key words for my question.
 * 2022-11-15 Started writing up some potential research questions.

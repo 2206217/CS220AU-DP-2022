@@ -1,1 +1,1 @@
-# **How can digitalisation within society become a risk to our existence?**
+# **How can digitalisation within society become a risk to humanity's existence?**

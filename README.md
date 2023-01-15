@@ -1,5 +1,12 @@
 
 ## Log 
+* 2023-01-15 Almost finalised essay and made final edits. 
+* 2023-01-15 Started looking at a layout on Github and editing the index.md file.
+* 2023-01-13 Rearranged ideas and overall structure of website.
+* 2023-01-05 Expanded on my draft and started making connections thoughout the essay.
+* 2022-12-20 Kept writing and editing.
+* 2022-12-15 Started writing in Word in essay from and structuring my ideas into solid paragraphs. 
+* 2022-12-05 More research into effects of digitalisation on society.
 * 2022-12-02 Started looking into screentime and at making some pie charts. 
 * 2022-11-28 Read more, came up with research question and very brief outline of the website.
 * 2022-11-24 More research/reading into digitalisation, finally came up with key words for my question.
@@ -16,9 +23,5 @@
 * 2022-10-11 Watched videos on digital identities and got introduced to the idea of V&R maps.
 
 ## TO DO  
-* link the risk to my own digital identity.
-* gather data to make the screen time graphs/charts.
-* organize notes from research neatly as a draft for the website.
-* more research on digitalisation and businesses.
-* maybe look at the positive side too? not necesarily though (if enough time).
+* finish website, move everything onto Github. 
 * watch social dilemma on netflix.

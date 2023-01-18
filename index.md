@@ -1,6 +1,4 @@
-# **How can digitalisation within society become a risk to humanity's existence?** 
-
-!(https://unsplash.com/photos/IrRbSND5EUc![image](https://user-images.githubusercontent.com/116093357/213197755-6673b7ff-0b07-4d4a-9338-be0117774dec.png))
+# **How can digitalisation within society become a risk to humanity's existence?**
 
 
 ## _**What is digitalisation?**_
@@ -13,34 +11,6 @@ From a non-organisational perspective, digitalisation has numerous benefits, wit
 Additionally, user @gaialect on Twitter talks about how growing up on the internet has perhaps made our generation hyper-aware of the self, leading to us caring too much about how we are perceived, not only online but also in our private, interpersonal relationships. As a result, we may now tend to hold back natural human reactions and feelings to certain experiences in our lives to appeal to the ever-changing standards created online. At first glance, it may seem that having access to the internet in this sense allows us to strive for the best version of ourselves, and the romanticised version of self-improvement and self-love trending on social media is a motivational tool that most of us benefit from. When we delve deeper, however, these trends unintentionally set fake expectations and new criteria of a ’good’ life and as a result, we become stuck on trying to achieve the next best thing and forget to live in the moment or appreciate the rawest parts of ourselves as they come. Similarly, Welsh singer-songwriter MARINA addresses the impacts of being exposed to excessive amounts of media in her song ‘Oh No!’ with the lyrics “TV taught me how to feel Now real life has no appeal”. This lyric highlights the way the desire to live the lives we see on TV has become increasingly predominant in the younger generation’s goals, and many do not even enjoy certain aspects of traditional life anymore. The song goes on to say, “I know exactly what I want and who I want to be, I know exactly why I walk and talk like a machine”, indicating that to reach these goals, we must now become machines and behave according to the standards set by social influencers, even if this means neglecting who we truly are. This also links back to the false sense of reality that’s being created, as many of these examples we see online or on TV are far from the truth of what a healthy lifestyle should be, whether that be how to maintain healthy relationships with others or how to become successful in your career. 
 
 ## _**V&R Map and Critical Analysis of digital footprint**_
-
-Personal
-
-                              Netflix
-                                 Twitter
-                                                                                     Snapchat                                         Instagram
-
-             Whatsapp                                                                            
-                                                    Facebook
-
-                                                                            Youtube
-
-       
-Visitor                                                                                                                                     Resident
-
-
-
-
-
-
-
-     Google Scholar
-     Moodle
-                  Github
-    
-
-
-Institutional/Professional
 
 Above is my V&R (Visitor/Resident) map which looks at how much time I spend on websites and apps, but more importantly, the way in which I utilise these – either personal or professional/institutional use.  A visitor to an online platform refers to someone leaving no social trace online, whereas a resident is someone who continually contributes and posts, essentially creating a persona for these platforms (White, 2011). For a resident, examples would include a lifestyle influencer on Instagram, posting daily updates for their followers, or a researcher publishing papers and articles to share their findings. A visitor, however, would be an individual browsing the internet for a bus schedule, or someone reading a news article.
 Looking at my digital identities in relation to the research question, my V&R map made me realise I spend a large amount of time online, but not in a beneficial way. Thanks to this, my lack of professional use of the internet became apparent, as well as how instead of enhancing and gaining skills through research, improving myself and broadening my knowledge, I am mainly using the internet as a means of emotional stimulation and a distraction from my everyday tasks. This has easily led to wasted time by procrastination, especially at times of increased stress. This can be seen by my screen time on my phone which averaged 7 hours and 34 minutes a day during the month of November 2022, with social media applications such as Instagram, TikTok and Twitter being the most used apps, alongside Messages. This is more than the average 3 hours and 43 minutes of daily smartphone use in 2022, as reported by Josh Howarth on explodingtopics.com. This is clearly a cause for concern, especially as this number has been increasing globally over recent years, and when taking into consideration that most of the time spent online is done so by mindlessly scrolling on social media with no actual purpose of finding out useful information or connecting with others. Van Dijck (2013) notes how opting out is no longer an option when it comes to the digital world, and many of us, including me, have moved away from the innocent search for knowledge or a sense of belonging, and now feel obligated to live online. Opting out of this lifestyle would sadly mean disconnecting socially, as many online activities are now closely interlinked with our offline social life. 

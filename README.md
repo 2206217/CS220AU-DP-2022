@@ -9,6 +9,7 @@ This GitHub repository is the template for the CS220AU assignment in 2022. It de
 * web-design with [Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and
 * evaluation with the `assessment.md` and the `dp-checklist.md` files.
 
+This website aims to explore some of the impacts the digitalisation of society has had on the way we experience humanity and particularly the way this can and is already becoming a threat to the current collective's existence. The writing format aims to follow APA 7th edition writing style and regulations, with all in-text citations and referencing done in APA-style. All images used are from [Unsplash](https://unsplash.com), with the respecive creators credited after each image. 
 
 The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
@@ -22,7 +23,10 @@ This portfolio contains the following:
 
 
 ## Log 
-* 2023-01-18 Updated portofolio items and overview sections in the readme.md file.
+* 2023-01-18 Submitted to FASER.
+* 2023-01-18 Filled in dp checklist.
+* 2023-01-18 Completed self-assessment and peer-assesment in the assessment file.
+* 2023-01-18 Updated portofolio items and overview sections in the readme file.
 * 2023-01-18 Moved everything to GitHub and layed everything out, adding pictures, respective links and headings.
 * 2023-01-18 Finished essay on Word.  
 * 2023-01-15 Almost finalised essay and made final edits. 
@@ -48,4 +52,4 @@ This portfolio contains the following:
 * 2022-10-11 Watched videos on digital identities and got introduced to the idea of V&R maps.
 
 ## TO DO  
-* self and peer assesment.
+

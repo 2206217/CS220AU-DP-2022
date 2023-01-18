@@ -48,5 +48,4 @@ This portfolio contains the following:
 * 2022-10-11 Watched videos on digital identities and got introduced to the idea of V&R maps.
 
 ## TO DO  
-* finish website, move everything onto Github. 
 * self and peer assesment.

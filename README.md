@@ -24,4 +24,4 @@
 
 ## TO DO  
 * finish website, move everything onto Github. 
-* watch social dilemma on netflix.
+* self and peer assesment.

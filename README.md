@@ -1,5 +1,29 @@
+# CS220AU Digital Portfolio
+
+## Overview
+
+This GitHub repository is the template for the CS220AU assignment in 2022. It demonstrates minimalistic ideas for
+
+* project management
+* web hosting with [GitHub Pages](https://pages.github.com) 
+* web-design with [Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) and
+* evaluation with the `assessment.md` and the `dp-checklist.md` files.
+
+
+The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
+
+## Portfolio items
+
+This portfolio contains the following:
+
+1. website exploring digitalisation as an existential risk and elements of critical thinking. 
+2. self-and peer-assessment using the marking rubric in the `assessment.md` file. 
+3. portfolio overview providing a succinct overview of the portfolio, an outline of completed tasks (Log) and tasks to do (ToDo) in this `README.md` file.
+
 
 ## Log 
+* 2023-01-18 Updated portofolio items and overview sections in the readme.md file.
+* 2023-01-18 Moved everything to GitHub and layed everything out, adding pictures, respective links and headings.
 * 2023-01-18 Finished essay on Word.  
 * 2023-01-15 Almost finalised essay and made final edits. 
 * 2023-01-15 Started looking at a layout on Github and editing the index.md file.

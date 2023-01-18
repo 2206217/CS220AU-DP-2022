@@ -49,6 +49,8 @@ Initially, digitalisation in a strictly corporate setting was all about _**digit
 
 ## _**Conclusion**_
 
+In conclusion, we can clearly identify the effects of digitalisation on wider society and how this has already started to pose a threat to our humanity’s existence and will most definitely continue to do so as technology advances. Here I aimed at highlighting specifically the way excessive use of digital spaces has derived us from experiencing social life in its truest form, this being in person. The negative impacts of this can be seen through increased global screentime, the decline in productivity and motivation in young individuals, as well as the socioeconomic divide created across different nations. Moving forward, we can expect to see a further decline in the inclination for social spaces and activities, especially in the Alpha generation (individuals born between 2011 and 2015) whom we can already see growing up almost solely in digital spaces. This will likely also affect the quality of attachments and connections made with others, as we can more easily conceal who we truly are from others due to the lack of in-person interaction. Lastly, as data collection becomes the norm, we may see individuals become paranoid about constant surveillance, which can potentially lead to the mass boycotting of digitality. 
+
 ### _**References**_ 
 
 gaia. (2022, November 8). Twitter. https://twitter.com/gaialect/status/1589987411928678402?s=20 

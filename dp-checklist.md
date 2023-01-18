@@ -3,7 +3,7 @@ Student Registration Number: 2206217
 Module code: CS220AU  
 Coursework title: Digital Portfolio  
 Marker: Dr Krisztián Hofstädter  
-GitHub repository URL:  https://2206217.github.io/CS220AU-DP-2022/
+GitHub repository URL: 
 
 ## Checklist
 

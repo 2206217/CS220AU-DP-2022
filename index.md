@@ -1,3 +1,4 @@
+![Untitled_2023-01-18_15-12-22](https://user-images.githubusercontent.com/116093357/213208780-9a748a65-fa6d-4000-9e0e-253370a9bc78.png)
 # **How can digitalisation within society become a risk to humanity's existence?**
 
 

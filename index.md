@@ -24,6 +24,9 @@ This lyric highlights the way the desire to live the lives we see on TV has beco
 
 This indicates that to reach these goals, we must now become machines and behave according to the standards set by social influencers, even if this means neglecting who we truly are. This also links back to the false sense of reality that’s being created, as many of these examples we see online or on TV are far from the truth of what a healthy lifestyle should be, whether that be how to maintain healthy relationships with others or how to become successful in your career. 
 
+![photo-1535470142785-2b2f3ce24e5a](https://user-images.githubusercontent.com/116093357/213288558-8fe44c1a-3de9-4ed2-b580-a184b3be1285.png)
+
+
 ## _**V&R Map and Critical Analysis of digital footprint.**_
 
 ![Untitled_2023-01-18_15-48-31](https://user-images.githubusercontent.com/116093357/213219809-0e1248e6-ce0d-47b3-aeae-a638958866c8.png)

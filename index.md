@@ -70,7 +70,7 @@ Project, T. C. (2022, January 30). How Big Tech is Reshaping Governance. The Con
 
 Van Dijck, J. (2013). The culture of connectivity: A critical history of social media. Oxford University Press.
 
-White, D. S. (2011, August 23). Visitors and Residents: A new typology for online engagement | First Monday. https://journals.uic.edu/ojs/index.php/fm/article/view/3171 
+White, D. S. (2011, August 23). Visitors and Residents: A new typology for online engagement  First Monday. https://journals.uic.edu/ojs/index.php/fm/article/view/3171 
 
 Yuval-Davis, N. (2011). The politics of belonging. The Politics of Belonging, 1-264.
 

@@ -1,5 +1,6 @@
 
 ## Log 
+* 2023-01-18 Finished essay on Word, moved everything to GitHub. 
 * 2023-01-15 Almost finalised essay and made final edits. 
 * 2023-01-15 Started looking at a layout on Github and editing the index.md file.
 * 2023-01-13 Rearranged ideas and overall structure of website.

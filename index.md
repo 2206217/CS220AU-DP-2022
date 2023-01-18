@@ -58,19 +58,19 @@ In conclusion, we can clearly identify the effects of digitalisation on wider so
 
 ### _**References**_ 
 
-gaia. (2022, November 8). Twitter. [https://twitter.com/gaialect/status/1589987411928678402?s=20](https://twitter.com/gaialect/status/1589987411928678402?s=20) 
+gaia. (2022, November 8). Twitter. https://twitter.com/gaialect/status/1589987411928678402?s=20
 
-Howarth, J. (2023, January 13). Alarming Average Screen Time Statistics (2023). Exploding Topics. [https://explodingtopics.com/blog/screen-time-stats](https://explodingtopics.com/blog/screen-time-stats)
+Howarth, J. (2023, January 13). Alarming Average Screen Time Statistics (2023). Exploding Topics. https://explodingtopics.com/blog/screen-time-stats
 
-MARINA. (2010, June 28). MARINA - Oh No! (I Feel Like I’m The Worst So I Always Act like I’m The Best) [Official Music Video] [Video]. YouTube. [https://www.youtube.com/watch?v=Cr-SqRWImmI](https://www.youtube.com/watch?v=Cr-SqRWImmI)
+MARINA. (2010, June 28). MARINA - Oh No! (I Feel Like I’m The Worst So I Always Act like I’m The Best) [Official Music Video] [Video]. YouTube. https://www.youtube.com/watch?v=Cr-SqRWImmI
 
 Marlowe, J. M., Bartley, A., & Collins, F. (2017). Digital belongings: The intersections of social cohesion, connectivity and digital media. Ethnicities, 17(1), 85-102.
 
-Project, T. C. (2022, January 30). How Big Tech is Reshaping Governance. The Consilience Project. [https://consilienceproject.org/how-big-tech-is-reshaping-governance/](https://consilienceproject.org/how-big-tech-is-reshaping-governance/)
+Project, T. C. (2022, January 30). How Big Tech is Reshaping Governance. The Consilience Project. https://consilienceproject.org/how-big-tech-is-reshaping-governance/
 
 Van Dijck, J. (2013). The culture of connectivity: A critical history of social media. Oxford University Press.
 
-White, D. S. (2011, August 23). Visitors and Residents: A new typology for online engagement  First Monday. [https://journals.uic.edu/ojs/index.php/fm/article/view/3171](https://journals.uic.edu/ojs/index.php/fm/article/view/3171)
+White, D. S. (2011, August 23). Visitors and Residents: A new typology for online engagement  First Monday. https://journals.uic.edu/ojs/index.php/fm/article/view/3171
 
 Yuval-Davis, N. (2011). The politics of belonging. The Politics of Belonging, 1-264.
 

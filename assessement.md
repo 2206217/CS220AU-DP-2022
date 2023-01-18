@@ -57,7 +57,7 @@ To measure my own progress, I filled in the table below using the above marking 
 <br>
 
 ## Peer-assessment
-To help measure my progress, I asked another student in my group for feedback on my work. Based on his/her feedback, I filled in the table below. <!-- move symbols -->
+To help measure my progress, I asked another student in my group for feedback on my work. Based on their feedback, I filled in the table below. <!-- move symbols -->
 
 <br>
 

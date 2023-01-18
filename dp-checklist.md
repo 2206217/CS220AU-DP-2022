@@ -26,5 +26,5 @@ In the `assessement.md` file
 - [x] I filled in the peer-assessment tables for which one student in my group provided feedback for;
 - [x] I familiarised myself with the marking rubric and provided feedback for at least one student in my group.
 
-The student registration number of the studend I provided feedback with is: 2102821  
+The student registration number of the student I provided feedback with is: 2102821  
 

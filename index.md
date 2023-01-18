@@ -1,6 +1,6 @@
 # **How can digitalisation within society become a risk to humanity's existence?** 
 
-!(https://unsplash.com/photos/IrRbSND5EUc![image](https://user-images.githubusercontent.com/116093357/213197755-6673b7ff-0b07-4d4a-9338-be0117774dec.png)
+!(https://unsplash.com/photos/IrRbSND5EUc![image](https://user-images.githubusercontent.com/116093357/213197755-6673b7ff-0b07-4d4a-9338-be0117774dec.png))
 
 
 ## _**What is digitalisation?**_
